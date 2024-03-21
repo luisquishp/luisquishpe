@@ -1,0 +1,25 @@
+@charset "utf-8";
+.Estilos {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Titulos {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: bold;
+	color: #F00;
+}
+.Cuerpo {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	color: #03C;
+}
+.Subtitulos {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 24px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #C00;
+}
